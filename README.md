@@ -1,7 +1,7 @@
 # [DIO](www.dio.me) - Trilha Java Básico
 
 ## Autores
-- [Gleyson Sampaio](https://github.com/glysns)
+- [Jose-Henrique-a](https://github.com/Jose-Henrique-a)
 
 ## POO - Desafio
 
